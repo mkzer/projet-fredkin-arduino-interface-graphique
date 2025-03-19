@@ -12,6 +12,7 @@ Ce projet consiste en la conception et l'implémentation d'un automate cellulair
 
 ## Matériel requis
 - Arduino Mega 2560
+  ![image](https://github.com/user-attachments/assets/f4ccfd8c-a6d9-4689-a145-531d486f2398)
 - Écran TFT 3,5 pouces (ILI9486)
 - Câble USB pour la communication avec le PC
 
