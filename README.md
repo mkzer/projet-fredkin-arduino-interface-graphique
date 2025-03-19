@@ -12,7 +12,6 @@ Ce projet consiste en la conception et l'implémentation d'un automate cellulair
 
 ## Matériel requis
 - Arduino Mega 2560
-  ![image](https://github.com/user-attachments/assets/f4ccfd8c-a6d9-4689-a145-531d486f2398)
 - Écran TFT 3,5 pouces (ILI9486)
 - Câble USB pour la communication avec le PC
 
@@ -51,8 +50,14 @@ Ce projet consiste en la conception et l'implémentation d'un automate cellulair
 
 ## Exemples de sortie
 - **Affichage sur écran TFT** : Visualisation directe de la grille de l'automate.
+![image](https://github.com/user-attachments/assets/5c634647-503d-4a93-b1f0-5581cf27fb19)
+
 - **Interface graphique Python** : Interaction et contrôle des paramètres.
+![image](https://github.com/user-attachments/assets/6617f210-a208-45a6-aeac-6744fd84f7e3)
+
 - **Logs** : Fichier texte contenant l'évolution de l'automate.
+![image](https://github.com/user-attachments/assets/db3a410a-06ed-4d52-95de-b7561ca2e668)
+
 
 ## Améliorations futures
 - Optimisation de la gestion mémoire pour supporter des grilles plus grandes.
